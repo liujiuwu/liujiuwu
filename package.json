@@ -1,0 +1,14 @@
+{
+  "name": "刘玖武个人简历",
+  "version": "0.0.1",
+  "main": "liujiuwu.html",
+  "window": {
+    "show": true,
+    "toolbar": false,
+    "frame": true,
+    "position": "center",
+    "min_width": 800,
+    "min_height": 1000,
+    "show_in_taskbar":true
+  }
+}
